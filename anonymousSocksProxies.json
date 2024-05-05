@@ -15,4 +15,12 @@
     "anonymity": "anonymous",
     "geolocation": "Germany"
   }
+  {
+    "proxy": "https://185.82.218.52:1080",
+    "protocol": "SOCKS",
+    "ip": "185.82.218.52",
+    "port": 1080,
+    "anonymity": "anonymous",
+    "geolocation": "Bulgaria"
+  }
 ]
