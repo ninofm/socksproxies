@@ -16,14 +16,6 @@
     "geolocation": "Malaysia"
   },
   {
-    "proxy": "https://184.168.121.153:43511",
-    "protocol": "SOCKS",
-    "ip": "184.168.121.153",
-    "port": 43511,
-    "anonymity": "anonymous",
-    "geolocation": "Singapore"
-  },
-  {
     "proxy": "https://161.97.165.57:6184",
     "protocol": "SOCKS",
     "ip": "161.97.165.57",
@@ -38,22 +30,6 @@
     "port": 1080,
     "anonymity": "anonymous",
     "geolocation": "Malaysia"
-  },
-  {
-    "proxy": "https://184.168.121.153:20026",
-    "protocol": "SOCKS",
-    "ip": "184.168.121.153",
-    "port": 20026,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://184.168.121.153:23087",
-    "protocol": "SOCKS",
-    "ip": "184.168.121.153",
-    "port": 23087,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
   },
   {
     "proxy": "https://31.170.22.127:1080",
