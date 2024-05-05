@@ -1,13 +1,5 @@
 [
   {
-    "proxy": "https://111.90.150.109:1080",
-    "protocol": "SOCKS",
-    "ip": "111.90.150.109",
-    "port": 1080,
-    "anonymity": "anonymous",
-    "geolocation": "Malaysia"
-  },
-  {
     "proxy": "https://161.97.165.57:6184",
     "protocol": "SOCKS",
     "ip": "161.97.165.57",
@@ -54,5 +46,21 @@
     "port": 1080,
     "anonymity": "anonymous",
     "geolocation": "unknown"
+  },
+  {
+    "proxy": "https://194.163.137.106:9050",
+    "protocol": "SOCKS",
+    "ip": "194.163.137.106",
+    "port": 9050,
+    "anonymity": "anonymous",
+    "geolocation": "Germany"
+  },
+  {
+    "proxy": "https://92.204.134.38:42668",
+    "protocol": "SOCKS",
+    "ip": "92.204.134.38",
+    "port": 42668,
+    "anonymity": "anonymous",
+    "geolocation": ""
   }
 ]
