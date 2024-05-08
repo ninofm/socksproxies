@@ -8,6 +8,14 @@
     "geolocation": "unknown"
   },
   {
+    "proxy": "https://5.252.23.249:1080",
+    "protocol": "SOCKS",
+    "ip": "5.252.23.249",
+    "port": 1080,
+    "anonymity": "noTube",
+    "geolocation": "Slovakia"
+  },
+  {
     "proxy": "https://194.163.137.106:9050",
     "protocol": "SOCKS",
     "ip": "194.163.137.106",
