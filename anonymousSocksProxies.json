@@ -16,6 +16,14 @@
     "geolocation": "Germany"
   },
   {
+    "proxy": "https://92.204.136.149:37667",
+    "protocol": "SOCKS",
+    "ip": "92.204.136.149",
+    "port": 37667,
+    "anonymity": "anonymous",
+    "geolocation": "USA"
+  },
+  {
     "proxy": "https://161.97.165.57:6184",
     "protocol": "SOCKS",
     "ip": "161.97.165.57",
