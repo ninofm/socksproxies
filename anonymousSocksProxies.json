@@ -1,11 +1,11 @@
 [
   {
-    "proxy": "https://111.90.150.109:1080",
+    "proxy": "https://67.227.230.5:25099",
     "protocol": "SOCKS",
-    "ip": "111.90.150.109",
-    "port": 1080,
+    "ip": "67.227.230.5",
+    "port": 25099,
     "anonymity": "anonymous",
-    "geolocation": "unknown"
+    "geolocation": "USA"
   },
   {
     "proxy": "https://5.252.23.249:1080",
@@ -38,6 +38,14 @@
     "port": 6184,
     "anonymity": "anonymous",
     "geolocation": "Germany"
+  },
+  {
+    "proxy": "https://111.90.150.109:1080",
+    "protocol": "SOCKS",
+    "ip": "111.90.150.109",
+    "port": 1080,
+    "anonymity": "anonymous",
+    "geolocation": "unknown"
   },
   {
     "proxy": "https://185.82.218.52:1080",
