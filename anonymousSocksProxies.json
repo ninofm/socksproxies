@@ -16,6 +16,22 @@
     "geolocation": "Bulgaria"
   },
   {
+    "proxy": "https://51.89.173.40:9111",
+    "protocol": "SOCKS",
+    "ip": "51.89.173.40",
+    "port": 9111,
+    "anonymity": "anaonymous",
+    "geolocation": "UK&NIreland"
+  },
+  {
+    "proxy": "https://51.89.173.40:14725",
+    "protocol": "SOCKS",
+    "ip": "51.89.173.40",
+    "port": 14725,
+    "anonymity": "anaonymous",
+    "geolocation": "UK&NIreland"
+  },
+  {
     "proxy": "https://92.204.136.149:37667",
     "protocol": "SOCKS",
     "ip": "92.204.136.149",
