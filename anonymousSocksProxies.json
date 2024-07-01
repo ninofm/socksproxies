@@ -1,5 +1,13 @@
 [
   {
+    "proxy": "https://23.94.214.127:20089",
+    "protocol": "SOCKS",
+    "ip": "23.94.214.127",
+    "port": 20089,
+    "anonymity": "anaonymous",
+    "geolocation": "USA"
+  },
+  {
     "proxy": "https://111.90.150.109:1080",
     "protocol": "SOCKS",
     "ip": "111.90.150.109",
