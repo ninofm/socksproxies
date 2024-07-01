@@ -1,5 +1,13 @@
 [
   {
+    "proxy": "https://23.19.244.109:1080",
+    "protocol": "SOCKS",
+    "ip": "23.19.244.109",
+    "port": 1080,
+    "anonymity": "anaonymous",
+    "geolocation": "USA"
+  },
+  {
     "proxy": "https://23.94.214.127:20089",
     "protocol": "SOCKS",
     "ip": "23.94.214.127",
